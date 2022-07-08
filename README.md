@@ -11,5 +11,5 @@ from txt2docx import txt2docx #Importing
 txt_file_name='file.txt' #The .txt file name
 docx_file_name='converted file' #The .docx file name
 
-txt2docx.txt2docx(txt_file_name,docx_file_name) #Converting
+txt2docx.txt2docx(txt_file_name, docx_file_name) #Converting
 ```
